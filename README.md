@@ -1,4 +1,4 @@
- Floor-Cleaning-Robot
+# Floor-Cleaning-Robot
  In this project we propose a floor cleaning robot that can clean the floor according to the instructions given by user. This robot makes the cleaning process fast and efficient as it
 receives the commands from smart phone wirelessly through Bluetooth module embedded on it. On getting the commands the robot perform functions like moving in different
 directions and mopping the floor. This system proves to be cost effective, low maintenance and reduced human effort which makes it a very reliable product.
